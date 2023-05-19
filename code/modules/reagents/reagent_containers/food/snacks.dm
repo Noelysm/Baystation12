@@ -451,6 +451,16 @@
 	nutriment_desc = list("turkey" = 3, "tofu" = 5, "goeyness" = 4)
 	bitesize = 3
 
+/obj/item/reagent_containers/food/snacks/friedmess
+	name = "sad food"
+	desc = "Someone left this on the pan too long."
+	icon_state = "friedmesz"
+	filling_color = "#fffee0"
+	center_of_mass = "x=16;y=8"
+	nutriment_amt = 12
+	nutriment_desc = list("turkey" = 3, "tofu" = 5, "goeyness" = 4)
+	bitesize = 3
+
 /obj/item/reagent_containers/food/snacks/stuffing
 	name = "stuffing"
 	desc = "Moist, peppery breadcrumbs for filling the body cavities of dead birds. Dig in!"
